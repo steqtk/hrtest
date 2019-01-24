@@ -1,3 +1,11 @@
+## На что посмотреть:
+* routes/web.php
+* app/Http/Controllers/WeatherController.php
+* app/Http/Controllers/OrderController.php
+* app/Order.php и другие модели в app/
+* вьюхи в resources/views
+
+
 ## Тестовое задание
 Если Вы не знакомы с Laravel, то можете выполнить задачу на удобном для вас фреймворке.
 Требуется сделать форк текущего репозитария, выполнить задание и прислать нам ссылку на ваш форк. 
